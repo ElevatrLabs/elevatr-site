@@ -1,1 +1,0 @@
-export{t as WebGPURenderer}from"./GameScene-B1elrwx4.js";
